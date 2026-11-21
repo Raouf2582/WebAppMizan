@@ -1,0 +1,6 @@
+{
+  "name": "ميزان — النظام المحاسبي المتكامل",
+  "description": "نظام محاسبة مالية متكامل يدعم القيد المزدوج، شجرة الحسابات الموحدة، مراكز التكلفة، السندات، الفترات المحاسبية، والتقارير المالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
